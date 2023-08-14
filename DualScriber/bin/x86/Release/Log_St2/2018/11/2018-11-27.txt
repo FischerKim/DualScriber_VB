@@ -1,0 +1,291 @@
+[2018-11-27 10.59.18 724]ST#2 : End Inspection
+[2018-11-27 11.12.11 298]ST#2 : Begin Inspection
+[2018-11-27 11.12.16 104]ST#2 : End Inspection
+[2018-11-27 11.30.12 780]ST#2 : Begin Inspection
+[2018-11-27 13.54.46 889]ST#2 : End Inspection
+[2018-11-27 13.57.15 915]ST#2 : Begin Inspection
+[2018-11-27 14.11.59 412]ST#2 : End Inspection
+[2018-11-27 14.16.17 775]ST#2 : Begin Inspection
+[2018-11-27 14.16.31 793]ST#2 : End Inspection
+[2018-11-27 14.22.48 283]ST#2 : Begin Inspection
+[2018-11-27 14.31.01 226]ST#2 : Request Alignment
+[2018-11-27 14.31.01 226]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.31.01 353]ST#2 : Alignment NG(Left unknown point)
+[2018-11-27 14.31.17 155]ST#2 : End Inspection
+[2018-11-27 14.32.59 372]ST#2 : Begin Inspection
+[2018-11-27 14.33.16 906]ST#2 : Request Alignment
+[2018-11-27 14.33.16 906]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.33.16 964]ST#2 : Alignment Axis L(754.5156, 679.1579) R(759.5434, 610.0265)
+[2018-11-27 14.33.16 977]ST#2 : Motion LX = 469.5886
+[2018-11-27 14.33.16 977]ST#2 : Motion RX = 462.5677
+[2018-11-27 14.33.16 977]ST#2 : Motion Y = 844.4821
+[2018-11-27 14.33.16 977]ST#2 : Motion T = 0.62955
+[2018-11-27 14.33.17 012]ST#2 : Alignment Retry
+[2018-11-27 14.33.17 012]ST#2 : Send Alignment Movement LX(0.0483), RX(0.0643), Y(0.1363), T(0.01966), 
+[2018-11-27 14.33.17 678]ST#2 : Request Alignment
+[2018-11-27 14.33.17 678]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.33.17 740]ST#2 : Alignment Axis L(800.725, 600.504) R(800.7619, 601.4907)
+[2018-11-27 14.33.17 783]ST#2 : Motion LX = 469.6369
+[2018-11-27 14.33.17 783]ST#2 : Motion RX = 462.5034
+[2018-11-27 14.33.17 783]ST#2 : Motion Y = 844.6184
+[2018-11-27 14.33.17 784]ST#2 : Motion T = 0.64921
+[2018-11-27 14.33.17 784]ST#2 : Alignment OK
+[2018-11-27 14.33.19 357]ST#2 : Requested Initialize
+[2018-11-27 14.34.23 904]ST#2 : End Inspection
+[2018-11-27 14.35.18 503]ST#2 : Request Alignment
+[2018-11-27 14.35.18 525]ST#2 : Alignment NG(Not Ready)
+[2018-11-27 14.36.41 656]ST#2 : Begin Inspection
+[2018-11-27 14.36.46 745]ST#2 : End Inspection
+[2018-11-27 14.39.16 182]ST#2 : Request Alignment
+[2018-11-27 14.39.16 200]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.41.43 676]ST#2 : Request Calibration
+[2018-11-27 14.41.43 739]ST#2 : Start Calibration
+[2018-11-27 14.41.44 017]ST#2 : Send Calibration Movement LX(-0.5), RX(0.5), Y(0.5), T(0), 
+[2018-11-27 14.41.47 205]ST#2 : Calibration Next Step 
+[2018-11-27 14.41.47 295]ST#2 : Calibration Axis L(917.149, 517.319) R(922.333, 447.896)
+[2018-11-27 14.41.47 484]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.41.50 639]ST#2 : Calibration Next Step 
+[2018-11-27 14.41.50 759]ST#2 : Calibration Axis L(836.344, 517.266) R(841.321, 448.1)
+[2018-11-27 14.41.50 848]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.41.53 936]ST#2 : Calibration Next Step 
+[2018-11-27 14.41.54 051]ST#2 : Calibration Axis L(755.318, 517.173) R(759.912, 447.884)
+[2018-11-27 14.41.54 377]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.41.57 064]ST#2 : Calibration Next Step 
+[2018-11-27 14.41.57 187]ST#2 : Calibration Axis L(674.474, 516.996) R(678.577, 447.788)
+[2018-11-27 14.41.57 376]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.42.00 212]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.00 321]ST#2 : Calibration Axis L(593.411, 516.889) R(597.126, 447.639)
+[2018-11-27 14.42.00 527]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.03 663]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.03 794]ST#2 : Calibration Axis L(593.334, 598.209) R(597.085, 529.358)
+[2018-11-27 14.42.04 049]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.07 096]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.07 254]ST#2 : Calibration Axis L(593.186, 679.274) R(597.058, 610.66)
+[2018-11-27 14.42.07 529]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.10 707]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.10 832]ST#2 : Calibration Axis L(593.08, 760.131) R(597.062, 691.927)
+[2018-11-27 14.42.11 012]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.14 205]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.14 300]ST#2 : Calibration Axis L(593.161, 841.125) R(597.018, 773.418)
+[2018-11-27 14.42.14 514]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.42.16 979]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.17 107]ST#2 : Calibration Axis L(674.476, 841.146) R(678.202, 773.448)
+[2018-11-27 14.42.17 414]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.42.20 510]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.20 630]ST#2 : Calibration Axis L(755.358, 841.355) R(759.503, 773.607)
+[2018-11-27 14.42.20 788]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.42.23 937]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.24 077]ST#2 : Calibration Axis L(836.279, 841.614) R(840.937, 773.522)
+[2018-11-27 14.42.24 277]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.42.27 631]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.27 781]ST#2 : Calibration Axis L(916.919, 841.549) R(921.849, 773.644)
+[2018-11-27 14.42.27 862]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0.25), T(0), 
+[2018-11-27 14.42.31 144]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.31 298]ST#2 : Calibration Axis L(916.968, 760.419) R(921.896, 692.085)
+[2018-11-27 14.42.31 527]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0.25), T(0), 
+[2018-11-27 14.42.34 067]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.34 197]ST#2 : Calibration Axis L(917.148, 679.373) R(922.193, 610.805)
+[2018-11-27 14.42.34 304]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0.25), T(0), 
+[2018-11-27 14.42.37 493]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.37 607]ST#2 : Calibration Axis L(917.017, 598.161) R(921.949, 529.157)
+[2018-11-27 14.42.37 703]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.42.40 907]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.41 047]ST#2 : Calibration Axis L(836.152, 598.313) R(841.166, 529.337)
+[2018-11-27 14.42.41 241]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.42.43 721]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.43 850]ST#2 : Calibration Axis L(755.203, 598.134) R(759.77, 529.222)
+[2018-11-27 14.42.44 042]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.42.47 244]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.47 372]ST#2 : Calibration Axis L(674.346, 598.028) R(678.454, 529.278)
+[2018-11-27 14.42.47 519]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.50 904]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.51 023]ST#2 : Calibration Axis L(674.357, 679.131) R(678.505, 610.576)
+[2018-11-27 14.42.51 129]ST#2 : Send Calibration Movement LX(0), RX(0), Y(-0.25), T(0), 
+[2018-11-27 14.42.54 436]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.54 576]ST#2 : Calibration Axis L(674.346, 759.935) R(678.539, 691.908)
+[2018-11-27 14.42.54 759]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.42.57 702]ST#2 : Calibration Next Step 
+[2018-11-27 14.42.57 789]ST#2 : Calibration Axis L(755.218, 760.044) R(759.511, 691.849)
+[2018-11-27 14.42.57 976]ST#2 : Send Calibration Movement LX(-0.25), RX(0.25), Y(0), T(0), 
+[2018-11-27 14.43.01 209]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.01 346]ST#2 : Calibration Axis L(836.303, 760.279) R(840.846, 691.777)
+[2018-11-27 14.43.01 424]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0.25), T(0), 
+[2018-11-27 14.43.04 492]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.04 622]ST#2 : Calibration Axis L(836.221, 679.273) R(840.883, 610.477)
+[2018-11-27 14.43.04 807]ST#2 : Send Calibration Movement LX(0.25), RX(-0.25), Y(0), T(0), 
+[2018-11-27 14.43.07 979]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.08 078]ST#2 : Calibration Axis L(755.15, 679.136) R(759.627, 610.554)
+[2018-11-27 14.43.08 322]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0), 
+[2018-11-27 14.43.10 775]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.10 921]ST#2 : Calibration Axis L(755.34, 679.086) R(759.968, 610.508)
+[2018-11-27 14.43.11 079]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(-0.03), 
+[2018-11-27 14.43.14 034]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.14 141]ST#2 : Calibration Axis L(661.943, 731.224) R(666.137, 556.575)
+[2018-11-27 14.43.14 239]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.16 737]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.16 886]ST#2 : Calibration Axis L(680.747, 720.711) R(685.005, 567.34)
+[2018-11-27 14.43.17 071]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.20 054]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.20 165]ST#2 : Calibration Axis L(698.924, 710.567) R(703.152, 577.844)
+[2018-11-27 14.43.20 260]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.23 450]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.23 606]ST#2 : Calibration Axis L(717.272, 700.53) R(721.595, 589.062)
+[2018-11-27 14.43.23 838]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.27 111]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.27 255]ST#2 : Calibration Axis L(735.809, 690.202) R(740.249, 599.434)
+[2018-11-27 14.43.27 449]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.012), 
+[2018-11-27 14.43.30 640]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.30 767]ST#2 : Calibration Axis L(774.161, 668.404) R(778.67, 621.327)
+[2018-11-27 14.43.30 958]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.34 047]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.34 192]ST#2 : Calibration Axis L(793.074, 658.065) R(797.72, 632.442)
+[2018-11-27 14.43.34 279]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.37 457]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.37 584]ST#2 : Calibration Axis L(811.219, 648.013) R(815.852, 643.161)
+[2018-11-27 14.43.37 731]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.40 784]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.40 946]ST#2 : Calibration Axis L(829.432, 637.767) R(834.015, 653.465)
+[2018-11-27 14.43.41 040]ST#2 : Send Calibration Movement LX(0), RX(0), Y(0), T(0.006), 
+[2018-11-27 14.43.44 409]ST#2 : Calibration Next Step 
+[2018-11-27 14.43.44 513]ST#2 : Calibration Axis L(848.404, 627.068) R(853.375, 664.495)
+[2018-11-27 14.43.51 594]ST#2 : Success calibration
+[2018-11-27 14.43.59 312]ST#2 : Begin Inspection
+[2018-11-27 14.43.59 352]ST#2 : Alignment Axis L(848.4042, 627.0683) R(853.375, 664.4945)
+[2018-11-27 14.43.59 392]ST#2 : Motion LX = 469.5886
+[2018-11-27 14.43.59 397]ST#2 : Motion RX = 462.5677
+[2018-11-27 14.43.59 397]ST#2 : Motion Y = 844.4821
+[2018-11-27 14.43.59 397]ST#2 : Motion T = 0.62955
+[2018-11-27 14.43.59 505]ST#2 : Alignment Retry
+[2018-11-27 14.43.59 506]ST#2 : Send Alignment Movement LX(0.0484), RX(0.0633), Y(0.1398), T(-0.01053), 
+[2018-11-27 14.44.55 109]ST#2 : Request Alignment
+[2018-11-27 14.44.55 109]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.44.55 168]ST#2 : Alignment Axis L(754.9586, 678.7731) R(759.5135, 610.0146)
+[2018-11-27 14.44.55 226]ST#2 : Motion LX = 469.5886
+[2018-11-27 14.44.55 229]ST#2 : Motion RX = 462.5677
+[2018-11-27 14.44.55 229]ST#2 : Motion Y = 844.4821
+[2018-11-27 14.44.55 229]ST#2 : Motion T = 0.62955
+[2018-11-27 14.44.55 279]ST#2 : Alignment Retry
+[2018-11-27 14.44.55 281]ST#2 : Send Alignment Movement LX(0.0482), RX(0.0628), Y(0.1386), T(0.01949), 
+[2018-11-27 14.44.55 823]ST#2 : Request Alignment
+[2018-11-27 14.44.55 823]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.44.55 889]ST#2 : Alignment Axis L(800.4417, 600.0213) R(800.7622, 600.7095)
+[2018-11-27 14.44.55 997]ST#2 : Motion LX = 469.6368
+[2018-11-27 14.44.55 997]ST#2 : Motion RX = 462.5049
+[2018-11-27 14.44.55 997]ST#2 : Motion Y = 844.6207
+[2018-11-27 14.44.55 997]ST#2 : Motion T = 0.64904
+[2018-11-27 14.44.55 997]ST#2 : Alignment OK
+[2018-11-27 14.44.57 573]ST#2 : Requested Initialize
+[2018-11-27 14.48.49 498]ST#2 : End Inspection
+[2018-11-27 14.54.47 441]ST#2 : Begin Inspection
+[2018-11-27 14.55.19 291]ST#2 : End Inspection
+[2018-11-27 14.59.09 281]ST#2 : Begin Inspection
+[2018-11-27 14.59.57 726]ST#2 : Request Alignment
+[2018-11-27 14.59.57 730]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.59.57 793]ST#2 : Alignment Axis L(741.6803, 693.4351) R(746.7439, 586.6492)
+[2018-11-27 14.59.57 837]ST#2 : Motion LX = 469.5886
+[2018-11-27 14.59.57 837]ST#2 : Motion RX = 462.5677
+[2018-11-27 14.59.57 837]ST#2 : Motion Y = 844.4821
+[2018-11-27 14.59.57 837]ST#2 : Motion T = 0.62955
+[2018-11-27 14.59.57 868]ST#2 : Alignment Retry
+[2018-11-27 14.59.57 872]ST#2 : Send Alignment Movement LX(0.1104), RX(0.1266), Y(0.1262), T(0.03022), 
+[2018-11-27 14.59.58 782]ST#2 : Request Alignment
+[2018-11-27 14.59.58 782]ST#2 : Send Busy(Alignment)
+[2018-11-27 14.59.58 838]ST#2 : Alignment Axis L(800.6498, 599.8649) R(800.6723, 600.4709)
+[2018-11-27 14.59.58 971]ST#2 : Motion LX = 469.699
+[2018-11-27 14.59.58 977]ST#2 : Motion RX = 462.4411
+[2018-11-27 14.59.58 977]ST#2 : Motion Y = 844.6083
+[2018-11-27 14.59.58 977]ST#2 : Motion T = 0.65977
+[2018-11-27 14.59.58 978]ST#2 : Alignment OK
+[2018-11-27 15.00.00 503]ST#2 : Requested Initialize
+[2018-11-27 15.05.23 757]ST#2 : Request Alignment
+[2018-11-27 15.05.23 757]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.05.23 812]ST#2 : Alignment Axis L(742.0723, 694.1565) R(746.6126, 587.2817)
+[2018-11-27 15.05.23 959]ST#2 : Motion LX = 469.5886
+[2018-11-27 15.05.23 959]ST#2 : Motion RX = 462.5677
+[2018-11-27 15.05.23 959]ST#2 : Motion Y = 844.4821
+[2018-11-27 15.05.23 959]ST#2 : Motion T = 0.62955
+[2018-11-27 15.05.23 976]ST#2 : Alignment Retry
+[2018-11-27 15.05.23 980]ST#2 : Send Alignment Movement LX(0.1118), RX(0.1265), Y(0.1283), T(0.03025), 
+[2018-11-27 15.05.24 710]ST#2 : Request Alignment
+[2018-11-27 15.05.24 710]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.05.24 768]ST#2 : Alignment Axis L(800.3138, 599.5562) R(800.1878, 599.9993)
+[2018-11-27 15.05.24 932]ST#2 : Motion LX = 469.7004
+[2018-11-27 15.05.24 932]ST#2 : Motion RX = 462.4412
+[2018-11-27 15.05.24 932]ST#2 : Motion Y = 844.6104
+[2018-11-27 15.05.24 932]ST#2 : Motion T = 0.6598
+[2018-11-27 15.05.24 932]ST#2 : Alignment OK
+[2018-11-27 15.05.26 527]ST#2 : Requested Initialize
+[2018-11-27 15.09.42 347]ST#2 : Request Alignment
+[2018-11-27 15.09.42 353]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.09.42 519]ST#2 : Alignment Axis L(742.1554, 694.1228) R(746.3114, 587.3362)
+[2018-11-27 15.09.42 674]ST#2 : Motion LX = 469.5886
+[2018-11-27 15.09.42 674]ST#2 : Motion RX = 462.5677
+[2018-11-27 15.09.42 674]ST#2 : Motion Y = 844.4821
+[2018-11-27 15.09.42 674]ST#2 : Motion T = 0.62955
+[2018-11-27 15.09.42 700]ST#2 : Alignment Retry
+[2018-11-27 15.09.42 707]ST#2 : Send Alignment Movement LX(0.1119), RX(0.1253), Y(0.1283), T(0.03022), 
+[2018-11-27 15.09.43 231]ST#2 : Request Alignment
+[2018-11-27 15.09.43 238]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.09.43 378]ST#2 : Alignment Axis L(800.4647, 599.4832) R(800.4987, 600.169)
+[2018-11-27 15.09.43 429]ST#2 : Motion LX = 469.7005
+[2018-11-27 15.09.43 429]ST#2 : Motion RX = 462.4424
+[2018-11-27 15.09.43 429]ST#2 : Motion Y = 844.6104
+[2018-11-27 15.09.43 430]ST#2 : Motion T = 0.65977
+[2018-11-27 15.09.43 430]ST#2 : Alignment OK
+[2018-11-27 15.09.45 028]ST#2 : Requested Initialize
+[2018-11-27 15.15.00 746]ST#2 : Request Alignment
+[2018-11-27 15.15.00 746]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.15.00 865]ST#2 : Alignment Axis L(742.1784, 694.235) R(745.8748, 587.4845)
+[2018-11-27 15.15.00 949]ST#2 : Motion LX = 469.5886
+[2018-11-27 15.15.00 952]ST#2 : Motion RX = 462.5677
+[2018-11-27 15.15.00 952]ST#2 : Motion Y = 844.4821
+[2018-11-27 15.15.00 952]ST#2 : Motion T = 0.62955
+[2018-11-27 15.15.01 152]ST#2 : Alignment Retry
+[2018-11-27 15.15.01 152]ST#2 : Send Alignment Movement LX(0.1118), RX(0.1239), Y(0.1287), T(0.03021), 
+[2018-11-27 15.15.01 909]ST#2 : Request Alignment
+[2018-11-27 15.15.01 916]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.15.02 012]ST#2 : Alignment Axis L(800.8348, 599.5655) R(800.9413, 600.2566)
+[2018-11-27 15.15.02 032]ST#2 : Motion LX = 469.7004
+[2018-11-27 15.15.02 036]ST#2 : Motion RX = 462.4438
+[2018-11-27 15.15.02 036]ST#2 : Motion Y = 844.6108
+[2018-11-27 15.15.02 036]ST#2 : Motion T = 0.65976
+[2018-11-27 15.15.02 036]ST#2 : Alignment OK
+[2018-11-27 15.15.03 632]ST#2 : Requested Initialize
+[2018-11-27 15.17.04 966]ST#2 : Request Alignment
+[2018-11-27 15.17.04 969]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.17.05 028]ST#2 : Alignment Axis L(742.3634, 694.1885) R(745.9231, 587.4841)
+[2018-11-27 15.17.05 060]ST#2 : Motion LX = 469.5886
+[2018-11-27 15.17.05 060]ST#2 : Motion RX = 462.5677
+[2018-11-27 15.17.05 060]ST#2 : Motion Y = 844.4821
+[2018-11-27 15.17.05 060]ST#2 : Motion T = 0.62955
+[2018-11-27 15.17.05 078]ST#2 : Alignment Retry
+[2018-11-27 15.17.05 078]ST#2 : Send Alignment Movement LX(0.1123), RX(0.1239), Y(0.1286), T(0.0302), 
+[2018-11-27 15.17.05 739]ST#2 : Request Alignment
+[2018-11-27 15.17.05 739]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.17.05 813]ST#2 : Alignment Axis L(800.5093, 599.9215) R(800.3881, 600.3216)
+[2018-11-27 15.17.05 863]ST#2 : Motion LX = 469.7009
+[2018-11-27 15.17.05 863]ST#2 : Motion RX = 462.4438
+[2018-11-27 15.17.05 863]ST#2 : Motion Y = 844.6107
+[2018-11-27 15.17.05 863]ST#2 : Motion T = 0.65975
+[2018-11-27 15.17.05 864]ST#2 : Alignment OK
+[2018-11-27 15.17.07 433]ST#2 : Requested Initialize
+[2018-11-27 15.19.41 465]ST#2 : Request Alignment
+[2018-11-27 15.19.41 466]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.19.41 523]ST#2 : Alignment Axis L(742.2952, 694.6485) R(745.7093, 587.547)
+[2018-11-27 15.19.41 681]ST#2 : Motion LX = 469.5886
+[2018-11-27 15.19.41 684]ST#2 : Motion RX = 462.5677
+[2018-11-27 15.19.41 684]ST#2 : Motion Y = 844.4821
+[2018-11-27 15.19.41 684]ST#2 : Motion T = 0.62955
+[2018-11-27 15.19.41 791]ST#2 : Alignment Retry
+[2018-11-27 15.19.41 791]ST#2 : Send Alignment Movement LX(0.1132), RX(0.1243), Y(0.1295), T(0.03031), 
+[2018-11-27 15.19.42 177]ST#2 : Request Alignment
+[2018-11-27 15.19.42 177]ST#2 : Send Busy(Alignment)
+[2018-11-27 15.19.42 240]ST#2 : Alignment Axis L(800.5054, 599.6498) R(800.4001, 600.4282)
+[2018-11-27 15.19.42 364]ST#2 : Motion LX = 469.7018
+[2018-11-27 15.19.42 364]ST#2 : Motion RX = 462.4434
+[2018-11-27 15.19.42 364]ST#2 : Motion Y = 844.6116
+[2018-11-27 15.19.42 364]ST#2 : Motion T = 0.65986
+[2018-11-27 15.19.42 364]ST#2 : Alignment OK
+[2018-11-27 15.19.43 941]ST#2 : Requested Initialize
+[2018-11-27 17.54.53 056]ST#2 : End Inspection
+[2018-11-27 17.55.35 367]ST#2 : Calibration Failed(Motion Timeout)

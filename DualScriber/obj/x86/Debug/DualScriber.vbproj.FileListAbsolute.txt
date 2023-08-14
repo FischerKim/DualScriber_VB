@@ -1,0 +1,123 @@
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\DualScriber.exe.config
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\DualScriber.exe
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\DualScriber.pdb
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\DualScriber.xml
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Daekhon.Common.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Jhjo.Common.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Jhjo.Component.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Jhjo.DB.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Jhjo.IO.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Jhjo.Tool.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\PylonC.NET.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\smal_CS.DLL
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\office.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\office.xml
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\bin\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.frmLoad.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.frmMain.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.Resources.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcEdge.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcMark.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcAlignment.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcPCI.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcLog.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcRecipe.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcReport.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcSetup.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.UcScreen.resources
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.exe
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.xml
+C:\Users\user\Desktop\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\SFA CEC PANDA DUAL SCRIBER 2.0 - 32bit\DualScriber\obj\x86\Debug\DualScriber.pdb
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\DualScriber.exe.config
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\DualScriber.exe
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\DualScriber.pdb
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\DualScriber.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Daekhon.Common.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Jhjo.Common.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Jhjo.Component.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Jhjo.DB.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Jhjo.IO.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Jhjo.Tool.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\smal_CS.DLL
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\office.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\office.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.frmLoad.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.frmMain.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.frmPassword.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.Resources.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcEdge.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcMark.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcAlignment.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcPCI.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcLog.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcRecipe.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcReport.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcSetup.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.UcScreen.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.exe
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\x86\Debug\DualScriber.pdb
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\DualScriber.exe.config
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\DualScriber.exe
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\DualScriber.pdb
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\DualScriber.xml
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Daekhon.Common.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Jhjo.Common.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Jhjo.Component.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Jhjo.DB.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Jhjo.IO.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Jhjo.Tool.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\smal_CS.DLL
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\office.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\office.xml
+C:\Users\Administrator\Desktop\0430\DualScriber\bin\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.frmLoad.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.frmMain.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.frmPassword.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.Resources.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcEdge.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcMark.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcAlignment.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcPCI.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcLog.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcRecipe.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcReport.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcSetup.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.UcScreen.resources
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.exe
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.xml
+C:\Users\Administrator\Desktop\0430\DualScriber\obj\x86\Debug\DualScriber.pdb

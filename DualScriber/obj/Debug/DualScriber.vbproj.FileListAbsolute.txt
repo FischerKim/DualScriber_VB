@@ -1,0 +1,334 @@
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.frmLoad.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.frmMain.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.Resources.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcEdge.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcMark.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcAlignment.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcPCI.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcLog.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcRecipe.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcReport.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcSetup.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.UcScreen.resources
+C:\Users\j\Desktop\SFA CEC PANDA DUAL SCRIBER\DualScriber\obj\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\Vision\Desktop\Inspection_Program_20190409_1144_Fix_ver.5.2\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\Vision\Desktop\Inspection_Program_20190409_1144_Fix_ver.5.2\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\Vision\Desktop\Inspection_Program_20190409_1144_Fix_ver.5.2\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+E:\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe.config
+E:\Inspection_Program_20190412_JK\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+E:\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.pdb
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.Controls.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Daekhon.Common.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Common.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Component.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.DB.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.IO.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Tool.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\smal_CS.DLL
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\office.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\office.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmLoad.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmMain.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmPassword.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.Resources.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcEdge.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcMark.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcAlignment.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcPCI.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcLog.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcRecipe.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcReport.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcSetup.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcScreen.resources
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.exe
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.xml
+C:\Users\vision\Desktop\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.pdb
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.exe
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.pdb
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmLoad.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmMain.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.frmPassword.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.Resources.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcEdge.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcMark.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcAlignment.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcPCI.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcLog.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcRecipe.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcReport.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcSetup.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.UcScreen.resources
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.pdb
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Daekhon.Common.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Common.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Component.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.DB.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.IO.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Jhjo.Tool.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\PylonC.NET.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\smal_CS.DLL
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\stdole.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\office.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\PylonC.NET.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\office.xml
+C:\Users\Yoo.Yoo-PC\Desktop\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\Interop.ACTMULTILib.dll
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\bin\Debug\DualScriber.exe.config
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.exe
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.xml
+G:\Inspection_Program_20190412_JK\Inspection_Program_20190412_JK\DualScriber\obj\Debug\DualScriber.pdb
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\DualScriber.exe
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\DualScriber.pdb
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\DualScriber.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Daekhon.Common.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Jhjo.Common.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Jhjo.Component.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Jhjo.DB.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Jhjo.IO.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Jhjo.Tool.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\PylonC.NET.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\smal_CS.DLL
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\stdole.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\office.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\PylonC.NET.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\office.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.vbprojResolveAssemblyReference.cache
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.frmLoad.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.frmMain.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.frmPassword.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.Resources.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcEdge.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcMark.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcAlignment.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcPCI.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcLog.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcRecipe.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcReport.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcSetup.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.UcScreen.resources
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.exe
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.xml
+C:\Users\Yoo.Yoo-PC\Desktop\CC PANDA\Inspection_Program_20190413_JK\DualScriber\obj\Debug\DualScriber.pdb
+D:\New folder (2)\DualScriber\bin\Debug\DualScriber.exe.config
+D:\New folder (2)\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+D:\New folder (2)\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+D:\New folder (2)\DualScriber\obj\Debug\DualScriber.exe
+D:\New folder (2)\DualScriber\obj\Debug\DualScriber.xml
+D:\New folder (2)\DualScriber\obj\Debug\DualScriber.pdb
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\DualScriber.exe.config
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\DualScriber.exe
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\DualScriber.pdb
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\DualScriber.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.Controls.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Daekhon.Acquisition.Basler.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Daekhon.Common.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Jhjo.Common.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Jhjo.Component.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Jhjo.DB.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Jhjo.IO.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Jhjo.Tool.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\smal_CS.DLL
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\office.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.frmCameraSelector.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.frmLoad.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.frmMain.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.frmPassword.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.Resources.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcEdge.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcMark.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcSubRecipe.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcAlignment.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcPCI.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcLog.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcRecipe.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcReport.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcSetup.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.UcScreen.resources
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.exe
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.xml
+C:\Users\Administrator\Desktop\0429_3\DualScriber\obj\Debug\DualScriber.pdb

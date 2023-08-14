@@ -1,0 +1,606 @@
+[2018-11-23 14.46.08 832]ST#1 : Requested Initialize
+[2018-11-23 14.46.30 542]ST#1 : Requested Initialize
+[2018-11-23 14.46.52 640]ST#1 : Requested Initialize
+[2018-11-23 14.47.14 748]ST#1 : Requested Initialize
+[2018-11-23 14.47.37 040]ST#1 : Requested Initialize
+[2018-11-23 14.47.59 052]ST#1 : Requested Initialize
+[2018-11-23 14.49.46 247]ST#1 : Requested Initialize
+[2018-11-23 14.56.45 059]ST#1 : Requested Initialize
+[2018-11-23 14.57.00 256]ST#1 : Requested Initialize
+[2018-11-23 14.57.15 159]ST#1 : Requested Initialize
+[2018-11-23 14.57.30 058]ST#1 : Requested Initialize
+[2018-11-23 14.57.45 063]ST#1 : Requested Initialize
+[2018-11-23 15.09.30 131]ST#1 : End Inspection
+[2018-11-23 15.11.33 365]ST#1 : Begin Inspection
+[2018-11-23 15.41.41 932]ST#1 : Requested Initialize
+[2018-11-23 15.43.12 240]ST#1 : Requested Initialize
+[2018-11-23 15.43.24 336]ST#1 : Requested Initialize
+[2018-11-23 15.43.37 752]ST#1 : Requested Initialize
+[2018-11-23 15.43.51 540]ST#1 : Requested Initialize
+[2018-11-23 15.44.05 445]ST#1 : Requested Initialize
+[2018-11-23 15.44.19 143]ST#1 : Requested Initialize
+[2018-11-23 15.44.33 153]ST#1 : Requested Initialize
+[2018-11-23 15.44.46 941]ST#1 : Requested Initialize
+[2018-11-23 15.45.01 147]ST#1 : Requested Initialize
+[2018-11-23 15.45.15 055]ST#1 : Requested Initialize
+[2018-11-23 15.45.28 842]ST#1 : Requested Initialize
+[2018-11-23 15.45.42 748]ST#1 : Requested Initialize
+[2018-11-23 15.45.56 758]ST#1 : Requested Initialize
+[2018-11-23 15.46.10 647]ST#1 : Requested Initialize
+[2018-11-23 15.46.24 644]ST#1 : Requested Initialize
+[2018-11-23 15.46.38 452]ST#1 : Requested Initialize
+[2018-11-23 15.46.52 342]ST#1 : Requested Initialize
+[2018-11-23 15.47.06 248]ST#1 : Requested Initialize
+[2018-11-23 15.47.20 258]ST#1 : Requested Initialize
+[2018-11-23 15.47.34 056]ST#1 : Requested Initialize
+[2018-11-23 15.47.47 954]ST#1 : Requested Initialize
+[2018-11-23 15.48.01 958]ST#1 : Requested Initialize
+[2018-11-23 15.48.15 948]ST#1 : Requested Initialize
+[2018-11-23 15.48.29 951]ST#1 : Requested Initialize
+[2018-11-23 15.48.43 860]ST#1 : Requested Initialize
+[2018-11-23 15.48.57 651]ST#1 : Requested Initialize
+[2018-11-23 15.49.11 648]ST#1 : Requested Initialize
+[2018-11-23 15.49.25 644]ST#1 : Requested Initialize
+[2018-11-23 15.49.39 655]ST#1 : Requested Initialize
+[2018-11-23 15.49.53 556]ST#1 : Requested Initialize
+[2018-11-23 15.50.40 166]ST#1 : End Inspection
+[2018-11-23 15.51.27 321]ST#1 : Begin Inspection
+[2018-11-23 16.07.01 884]ST#1 : Requested Initialize
+[2018-11-23 16.07.24 291]ST#1 : Requested Initialize
+[2018-11-23 16.07.47 089]ST#1 : Requested Initialize
+[2018-11-23 16.08.09 892]ST#1 : Requested Initialize
+[2018-11-23 16.08.32 289]ST#1 : Requested Initialize
+[2018-11-23 16.21.31 215]ST#1 : Requested Initialize
+[2018-11-23 17.16.35 133]ST#1 : Request Alignment
+[2018-11-23 17.16.35 133]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.16.35 327]ST#1 : Alignment NG(Left unknown point)
+[2018-11-23 17.20.39 252]ST#1 : Request Alignment
+[2018-11-23 17.20.39 252]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.20.39 314]ST#1 : Alignment Axis L(846.2926, 575.177) R(846.305, 585.9019)
+[2018-11-23 17.20.39 336]ST#1 : Motion LX = 137.7184
+[2018-11-23 17.20.39 336]ST#1 : Motion RX = 139.5858
+[2018-11-23 17.20.39 336]ST#1 : Motion Y = 664.0619
+[2018-11-23 17.20.39 336]ST#1 : Motion T = 0.42624
+[2018-11-23 17.20.39 358]ST#1 : Alignment Retry
+[2018-11-23 17.20.39 358]ST#1 : Send Alignment Movement LX(0.1345), RX(0.1338), Y(-0.0604), T(-0.0015), 
+[2018-11-23 17.20.39 893]ST#1 : Request Alignment
+[2018-11-23 17.20.39 893]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.20.39 952]ST#1 : Alignment Axis L(800.4892, 599.0352) R(800.3805, 600.4898)
+[2018-11-23 17.20.39 982]ST#1 : Motion LX = 137.8529
+[2018-11-23 17.20.39 982]ST#1 : Motion RX = 139.452
+[2018-11-23 17.20.39 982]ST#1 : Motion Y = 664.0015
+[2018-11-23 17.20.39 982]ST#1 : Motion T = 0.42474
+[2018-11-23 17.20.39 982]ST#1 : Alignment OK
+[2018-11-23 17.20.41 524]ST#1 : Requested Initialize
+[2018-11-23 17.31.09 554]ST#1 : End Inspection
+[2018-11-23 17.32.25 494]ST#1 : Begin Inspection
+[2018-11-23 17.32.42 115]ST#1 : End Inspection
+[2018-11-23 17.34.23 776]ST#1 : Begin Inspection
+[2018-11-23 17.47.20 600]ST#1 : Request Alignment
+[2018-11-23 17.47.20 600]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.47.20 796]ST#1 : Alignment NG(Left unknown point)
+[2018-11-23 17.48.12 897]ST#1 : Request Alignment
+[2018-11-23 17.48.12 897]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.48.12 953]ST#1 : Alignment Axis L(833.4858, 736.3738) R(830.9819, 725.2189)
+[2018-11-23 17.48.13 012]ST#1 : Motion LX = 137.7184
+[2018-11-23 17.48.13 012]ST#1 : Motion RX = 139.5858
+[2018-11-23 17.48.13 012]ST#1 : Motion Y = 664.5619
+[2018-11-23 17.48.13 012]ST#1 : Motion T = 0.42624
+[2018-11-23 17.48.13 037]ST#1 : Alignment Retry
+[2018-11-23 17.48.13 037]ST#1 : Send Alignment Movement LX(0.1148), RX(0.1065), Y(0.4059), T(0.00165), 
+[2018-11-23 17.48.13 522]ST#1 : Request Alignment
+[2018-11-23 17.48.13 522]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.48.13 579]ST#1 : Alignment Axis L(800.4547, 599.4235) R(800.123, 600.0885)
+[2018-11-23 17.48.13 641]ST#1 : Motion LX = 137.8332
+[2018-11-23 17.48.13 641]ST#1 : Motion RX = 139.4793
+[2018-11-23 17.48.13 641]ST#1 : Motion Y = 664.9678
+[2018-11-23 17.48.13 641]ST#1 : Motion T = 0.42789
+[2018-11-23 17.48.13 641]ST#1 : Alignment OK
+[2018-11-23 17.48.15 172]ST#1 : Requested Initialize
+[2018-11-23 17.52.49 601]ST#1 : Request Alignment
+[2018-11-23 17.52.49 601]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.52.49 666]ST#1 : Alignment Axis L(843.9642, 735.2497) R(840.7728, 742.192)
+[2018-11-23 17.52.49 715]ST#1 : Motion LX = 137.7184
+[2018-11-23 17.52.49 715]ST#1 : Motion RX = 139.5858
+[2018-11-23 17.52.49 715]ST#1 : Motion Y = 664.5619
+[2018-11-23 17.52.49 715]ST#1 : Motion T = 0.42624
+[2018-11-23 17.52.49 732]ST#1 : Alignment Retry
+[2018-11-23 17.52.49 733]ST#1 : Send Alignment Movement LX(0.1314), RX(0.1209), Y(0.4303), T(-0.00087), 
+[2018-11-23 17.52.50 701]ST#1 : Request Alignment
+[2018-11-23 17.52.50 701]ST#1 : Send Busy(Alignment)
+[2018-11-23 17.52.50 760]ST#1 : Alignment Axis L(799.8128, 600.0704) R(799.4335, 599.1814)
+[2018-11-23 17.52.50 882]ST#1 : Motion LX = 137.8498
+[2018-11-23 17.52.50 883]ST#1 : Motion RX = 139.4649
+[2018-11-23 17.52.50 883]ST#1 : Motion Y = 664.9922
+[2018-11-23 17.52.50 883]ST#1 : Motion T = 0.42537
+[2018-11-23 17.52.50 883]ST#1 : Alignment OK
+[2018-11-23 17.52.52 481]ST#1 : Requested Initialize
+[2018-11-23 18.01.29 234]ST#1 : Request Alignment
+[2018-11-23 18.01.29 234]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.01.29 297]ST#1 : Alignment Axis L(852.6731, 723.825) R(852.6611, 748.3952)
+[2018-11-23 18.01.29 445]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.01.29 445]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.01.29 445]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.01.29 445]ST#1 : Motion T = 0.42624
+[2018-11-23 18.01.29 477]ST#1 : Alignment Retry
+[2018-11-23 18.01.29 477]ST#1 : Send Alignment Movement LX(0.1429), RX(0.1421), Y(0.4221), T(-0.00332), 
+[2018-11-23 18.01.29 997]ST#1 : Request Alignment
+[2018-11-23 18.01.30 003]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.01.30 061]ST#1 : Alignment Axis L(801.1753, 597.5607) R(800.8512, 601.4374)
+[2018-11-23 18.01.30 150]ST#1 : Motion LX = 137.8613
+[2018-11-23 18.01.30 150]ST#1 : Motion RX = 139.4437
+[2018-11-23 18.01.30 150]ST#1 : Motion Y = 664.984
+[2018-11-23 18.01.30 150]ST#1 : Motion T = 0.42292
+[2018-11-23 18.01.30 188]ST#1 : Alignment Retry
+[2018-11-23 18.01.30 188]ST#1 : Send Alignment Movement LX(0.0002), RX(-0.0008), Y(-0.0016), T(-0.00054), 
+[2018-11-23 18.01.30 581]ST#1 : Request Alignment
+[2018-11-23 18.01.30 581]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.01.30 688]ST#1 : Alignment Axis L(799.5702, 601.3474) R(799.2213, 599.544)
+[2018-11-23 18.01.30 724]ST#1 : Motion LX = 137.8615
+[2018-11-23 18.01.30 729]ST#1 : Motion RX = 139.4445
+[2018-11-23 18.01.30 729]ST#1 : Motion Y = 664.9824
+[2018-11-23 18.01.30 729]ST#1 : Motion T = 0.42238
+[2018-11-23 18.01.30 729]ST#1 : Alignment OK
+[2018-11-23 18.01.32 295]ST#1 : Requested Initialize
+[2018-11-23 18.03.14 229]ST#1 : Request Alignment
+[2018-11-23 18.03.14 233]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.03.14 293]ST#1 : Alignment Axis L(840.8571, 747.4535) R(838.5043, 724.3218)
+[2018-11-23 18.03.14 333]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.03.14 333]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.03.14 333]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.03.14 333]ST#1 : Motion T = 0.42624
+[2018-11-23 18.03.14 356]ST#1 : Alignment Retry
+[2018-11-23 18.03.14 356]ST#1 : Send Alignment Movement LX(0.1483), RX(0.1404), Y(0.4218), T(0.00332), 
+[2018-11-23 18.03.14 832]ST#1 : Request Alignment
+[2018-11-23 18.03.14 832]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.03.14 890]ST#1 : Alignment Axis L(799.7434, 601.0682) R(798.9629, 598.6049)
+[2018-11-23 18.03.15 007]ST#1 : Motion LX = 137.8667
+[2018-11-23 18.03.15 014]ST#1 : Motion RX = 139.4454
+[2018-11-23 18.03.15 014]ST#1 : Motion Y = 664.9837
+[2018-11-23 18.03.15 014]ST#1 : Motion T = 0.42956
+[2018-11-23 18.03.15 014]ST#1 : Alignment OK
+[2018-11-23 18.03.16 595]ST#1 : Requested Initialize
+[2018-11-23 18.04.53 443]ST#1 : Request Alignment
+[2018-11-23 18.04.53 443]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.04.53 502]ST#1 : Alignment Axis L(842.227, 725.7046) R(839.4124, 730.5317)
+[2018-11-23 18.04.53 534]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.04.53 534]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.04.53 534]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.04.53 534]ST#1 : Motion T = 0.42624
+[2018-11-23 18.04.53 677]ST#1 : Alignment Retry
+[2018-11-23 18.04.53 677]ST#1 : Send Alignment Movement LX(0.1278), RX(0.1185), Y(0.3975), T(-0.00058), 
+[2018-11-23 18.04.54 734]ST#1 : Request Alignment
+[2018-11-23 18.04.54 734]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.04.54 844]ST#1 : Alignment Axis L(800.1475, 599.7624) R(799.7547, 600.1471)
+[2018-11-23 18.04.54 871]ST#1 : Motion LX = 137.8462
+[2018-11-23 18.04.54 871]ST#1 : Motion RX = 139.4673
+[2018-11-23 18.04.54 871]ST#1 : Motion Y = 664.9594
+[2018-11-23 18.04.54 871]ST#1 : Motion T = 0.42566
+[2018-11-23 18.04.54 871]ST#1 : Alignment OK
+[2018-11-23 18.04.56 402]ST#1 : Requested Initialize
+[2018-11-23 18.06.31 727]ST#1 : Request Alignment
+[2018-11-23 18.06.31 728]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.06.31 788]ST#1 : Alignment Axis L(840.7468, 727.0181) R(838.025, 735.1768)
+[2018-11-23 18.06.31 827]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.06.31 827]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.06.31 827]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.06.31 827]ST#1 : Motion T = 0.42624
+[2018-11-23 18.06.31 849]ST#1 : Alignment Retry
+[2018-11-23 18.06.31 849]ST#1 : Send Alignment Movement LX(0.1203), RX(0.1112), Y(0.4067), T(-0.00104), 
+[2018-11-23 18.06.32 634]ST#1 : Request Alignment
+[2018-11-23 18.06.32 634]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.06.32 698]ST#1 : Alignment Axis L(800.5004, 599.2656) R(799.6863, 600.199)
+[2018-11-23 18.06.32 865]ST#1 : Motion LX = 137.8387
+[2018-11-23 18.06.32 865]ST#1 : Motion RX = 139.4746
+[2018-11-23 18.06.32 865]ST#1 : Motion Y = 664.9686
+[2018-11-23 18.06.32 865]ST#1 : Motion T = 0.4252
+[2018-11-23 18.06.32 865]ST#1 : Alignment OK
+[2018-11-23 18.06.34 403]ST#1 : Requested Initialize
+[2018-11-23 18.33.19 081]ST#1 : Request Alignment
+[2018-11-23 18.33.19 081]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.33.19 146]ST#1 : Alignment Axis L(856.7423, 704.3295) R(854.7788, 762.1622)
+[2018-11-23 18.33.19 310]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.33.19 310]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.33.19 310]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.33.19 310]ST#1 : Motion T = 0.42624
+[2018-11-23 18.33.19 367]ST#1 : Alignment Retry
+[2018-11-23 18.33.19 367]ST#1 : Send Alignment Movement LX(0.1262), RX(0.1192), Y(0.4129), T(-0.00795), 
+[2018-11-23 18.33.19 871]ST#1 : Request Alignment
+[2018-11-23 18.33.19 871]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.33.19 930]ST#1 : Alignment Axis L(801.2626, 597.7577) R(801.028, 601.9542)
+[2018-11-23 18.33.20 018]ST#1 : Motion LX = 137.8446
+[2018-11-23 18.33.20 018]ST#1 : Motion RX = 139.4666
+[2018-11-23 18.33.20 018]ST#1 : Motion Y = 664.9748
+[2018-11-23 18.33.20 018]ST#1 : Motion T = 0.41829
+[2018-11-23 18.33.20 053]ST#1 : Alignment Retry
+[2018-11-23 18.33.20 060]ST#1 : Send Alignment Movement LX(0.0002), RX(-0.0005), Y(-0.0005), T(-0.00058), 
+[2018-11-23 18.33.20 625]ST#1 : Request Alignment
+[2018-11-23 18.33.20 625]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.33.20 682]ST#1 : Alignment Axis L(799.0293, 602.1095) R(798.8167, 598.0967)
+[2018-11-23 18.33.20 729]ST#1 : Motion LX = 137.8448
+[2018-11-23 18.33.20 729]ST#1 : Motion RX = 139.4671
+[2018-11-23 18.33.20 729]ST#1 : Motion Y = 664.9743
+[2018-11-23 18.33.20 729]ST#1 : Motion T = 0.41771
+[2018-11-23 18.33.20 753]ST#1 : Alignment Retry
+[2018-11-23 18.33.20 757]ST#1 : Send Alignment Movement LX(0.0005), RX(-0.0001), Y(0.0004), T(0.00056), 
+[2018-11-23 18.33.21 550]ST#1 : Request Alignment
+[2018-11-23 18.33.21 550]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.33.21 609]ST#1 : Alignment Axis L(798.9894, 601.8376) R(799.1217, 598.2978)
+[2018-11-23 18.33.21 770]ST#1 : Motion LX = 137.8453
+[2018-11-23 18.33.21 770]ST#1 : Motion RX = 139.4672
+[2018-11-23 18.33.21 770]ST#1 : Motion Y = 664.9747
+[2018-11-23 18.33.21 770]ST#1 : Motion T = 0.41827
+[2018-11-23 18.33.21 770]ST#1 : Alignment OK
+[2018-11-23 18.33.23 348]ST#1 : Requested Initialize
+[2018-11-23 18.35.05 068]ST#1 : Request Alignment
+[2018-11-23 18.35.05 068]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.35.05 130]ST#1 : Alignment Axis L(853.2371, 719.4578) R(850.8206, 742.9764)
+[2018-11-23 18.35.05 210]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.35.05 210]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.35.05 210]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.35.05 210]ST#1 : Motion T = 0.42624
+[2018-11-23 18.35.05 252]ST#1 : Alignment Retry
+[2018-11-23 18.35.05 258]ST#1 : Send Alignment Movement LX(0.1456), RX(0.1373), Y(0.4069), T(-0.00318), 
+[2018-11-23 18.35.05 808]ST#1 : Request Alignment
+[2018-11-23 18.35.05 808]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.35.05 873]ST#1 : Alignment Axis L(801.1458, 598.3974) R(800.5546, 601.7901)
+[2018-11-23 18.35.06 062]ST#1 : Motion LX = 137.864
+[2018-11-23 18.35.06 062]ST#1 : Motion RX = 139.4485
+[2018-11-23 18.35.06 062]ST#1 : Motion Y = 664.9688
+[2018-11-23 18.35.06 062]ST#1 : Motion T = 0.42306
+[2018-11-23 18.35.06 062]ST#1 : Alignment OK
+[2018-11-23 18.35.07 657]ST#1 : Requested Initialize
+[2018-11-23 18.37.02 465]ST#1 : Request Alignment
+[2018-11-23 18.37.02 465]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.37.02 522]ST#1 : Alignment Axis L(846.1884, 723.9742) R(844.4219, 744.0418)
+[2018-11-23 18.37.02 572]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.37.02 572]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.37.02 572]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.37.02 572]ST#1 : Motion T = 0.42624
+[2018-11-23 18.37.02 592]ST#1 : Alignment Retry
+[2018-11-23 18.37.02 592]ST#1 : Send Alignment Movement LX(0.1267), RX(0.1205), Y(0.4156), T(-0.0027), 
+[2018-11-23 18.37.03 089]ST#1 : Request Alignment
+[2018-11-23 18.37.03 089]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.37.03 202]ST#1 : Alignment Axis L(801.2886, 597.5786) R(800.7586, 601.4994)
+[2018-11-23 18.37.03 251]ST#1 : Motion LX = 137.8451
+[2018-11-23 18.37.03 251]ST#1 : Motion RX = 139.4653
+[2018-11-23 18.37.03 251]ST#1 : Motion Y = 664.9775
+[2018-11-23 18.37.03 251]ST#1 : Motion T = 0.42354
+[2018-11-23 18.37.03 295]ST#1 : Alignment Retry
+[2018-11-23 18.37.03 303]ST#1 : Send Alignment Movement LX(0.0005), RX(-0.0011), Y(-0.0015), T(-0.00055), 
+[2018-11-23 18.37.03 741]ST#1 : Request Alignment
+[2018-11-23 18.37.03 745]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.37.03 877]ST#1 : Alignment Axis L(799.4867, 601.0377) R(799.354, 599.0991)
+[2018-11-23 18.37.03 999]ST#1 : Motion LX = 137.8456
+[2018-11-23 18.37.04 002]ST#1 : Motion RX = 139.4664
+[2018-11-23 18.37.04 005]ST#1 : Motion Y = 664.976
+[2018-11-23 18.37.04 005]ST#1 : Motion T = 0.42299
+[2018-11-23 18.37.04 005]ST#1 : Alignment OK
+[2018-11-23 18.37.05 561]ST#1 : Requested Initialize
+[2018-11-23 18.38.46 814]ST#1 : Request Alignment
+[2018-11-23 18.38.46 814]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.38.46 977]ST#1 : Alignment Axis L(855.6143, 725.6991) R(852.7621, 741.7538)
+[2018-11-23 18.38.47 087]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.38.47 087]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.38.47 087]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.38.47 087]ST#1 : Motion T = 0.42624
+[2018-11-23 18.38.47 121]ST#1 : Alignment Retry
+[2018-11-23 18.38.47 121]ST#1 : Send Alignment Movement LX(0.1596), RX(0.1499), Y(0.4148), T(-0.00214), 
+[2018-11-23 18.38.47 623]ST#1 : Request Alignment
+[2018-11-23 18.38.47 623]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.38.47 687]ST#1 : Alignment Axis L(801.0197, 598.3975) R(800.4175, 601.2799)
+[2018-11-23 18.38.47 802]ST#1 : Motion LX = 137.878
+[2018-11-23 18.38.47 802]ST#1 : Motion RX = 139.4359
+[2018-11-23 18.38.47 802]ST#1 : Motion Y = 664.9767
+[2018-11-23 18.38.47 802]ST#1 : Motion T = 0.4241
+[2018-11-23 18.38.47 802]ST#1 : Alignment OK
+[2018-11-23 18.38.49 368]ST#1 : Requested Initialize
+[2018-11-23 18.40.26 511]ST#1 : Request Alignment
+[2018-11-23 18.40.26 511]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.40.26 665]ST#1 : Alignment Axis L(864.238, 701.8521) R(862.2269, 742.3906)
+[2018-11-23 18.40.26 684]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.40.26 685]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.40.26 688]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.40.26 688]ST#1 : Motion T = 0.42624
+[2018-11-23 18.40.26 853]ST#1 : Alignment Retry
+[2018-11-23 18.40.26 853]ST#1 : Send Alignment Movement LX(0.1648), RX(0.1575), Y(0.3786), T(-0.00555), 
+[2018-11-23 18.40.27 670]ST#1 : Request Alignment
+[2018-11-23 18.40.27 673]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.40.27 742]ST#1 : Alignment Axis L(800.3558, 599.1525) R(800.2212, 600.4352)
+[2018-11-23 18.40.27 767]ST#1 : Motion LX = 137.8832
+[2018-11-23 18.40.27 777]ST#1 : Motion RX = 139.4283
+[2018-11-23 18.40.27 777]ST#1 : Motion Y = 664.9405
+[2018-11-23 18.40.27 777]ST#1 : Motion T = 0.42069
+[2018-11-23 18.40.27 777]ST#1 : Alignment OK
+[2018-11-23 18.40.29 363]ST#1 : Requested Initialize
+[2018-11-23 18.42.06 108]ST#1 : Request Alignment
+[2018-11-23 18.42.06 108]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.42.06 174]ST#1 : Alignment Axis L(838.5401, 745.4594) R(836.547, 717.1946)
+[2018-11-23 18.42.06 294]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.42.06 298]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.42.06 298]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.42.06 298]ST#1 : Motion T = 0.42624
+[2018-11-23 18.42.06 420]ST#1 : Alignment Retry
+[2018-11-23 18.42.06 423]ST#1 : Send Alignment Movement LX(0.1456), RX(0.1388), Y(0.4077), T(0.00403), 
+[2018-11-23 18.42.06 884]ST#1 : Request Alignment
+[2018-11-23 18.42.06 888]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.42.06 951]ST#1 : Alignment Axis L(799.1968, 601.0824) R(798.7218, 598.0911)
+[2018-11-23 18.42.06 984]ST#1 : Motion LX = 137.864
+[2018-11-23 18.42.06 984]ST#1 : Motion RX = 139.447
+[2018-11-23 18.42.06 984]ST#1 : Motion Y = 664.9696
+[2018-11-23 18.42.06 984]ST#1 : Motion T = 0.43027
+[2018-11-23 18.42.06 984]ST#1 : Alignment OK
+[2018-11-23 18.42.08 569]ST#1 : Requested Initialize
+[2018-11-23 18.43.44 494]ST#1 : Request Alignment
+[2018-11-23 18.43.44 494]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.43.44 550]ST#1 : Alignment Axis L(846.7037, 741.6621) R(844.0322, 740.3516)
+[2018-11-23 18.43.44 686]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.43.44 691]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.43.44 692]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.43.44 692]ST#1 : Motion T = 0.42624
+[2018-11-23 18.43.44 807]ST#1 : Alignment Retry
+[2018-11-23 18.43.44 814]ST#1 : Send Alignment Movement LX(0.1473), RX(0.1383), Y(0.4375), T(0.00028), 
+[2018-11-23 18.43.45 593]ST#1 : Request Alignment
+[2018-11-23 18.43.45 597]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.43.45 728]ST#1 : Alignment Axis L(800.246, 599.3841) R(799.7025, 600.0633)
+[2018-11-23 18.43.45 759]ST#1 : Motion LX = 137.8657
+[2018-11-23 18.43.45 759]ST#1 : Motion RX = 139.4475
+[2018-11-23 18.43.45 759]ST#1 : Motion Y = 664.9994
+[2018-11-23 18.43.45 759]ST#1 : Motion T = 0.42652
+[2018-11-23 18.43.45 760]ST#1 : Alignment OK
+[2018-11-23 18.43.47 275]ST#1 : Requested Initialize
+[2018-11-23 18.45.18 185]ST#1 : Request Alignment
+[2018-11-23 18.45.18 185]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.45.18 257]ST#1 : Alignment Axis L(859.8802, 731.8024) R(857.5561, 747.978)
+[2018-11-23 18.45.18 381]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.45.18 384]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.45.18 384]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.45.18 384]ST#1 : Motion T = 0.42624
+[2018-11-23 18.45.18 500]ST#1 : Alignment Retry
+[2018-11-23 18.45.18 500]ST#1 : Send Alignment Movement LX(0.1728), RX(0.1647), Y(0.4339), T(-0.00215), 
+[2018-11-23 18.45.19 027]ST#1 : Request Alignment
+[2018-11-23 18.45.19 028]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.45.19 084]ST#1 : Alignment Axis L(801.0961, 598.0076) R(800.6192, 601.2135)
+[2018-11-23 18.45.19 243]ST#1 : Motion LX = 137.8912
+[2018-11-23 18.45.19 243]ST#1 : Motion RX = 139.4211
+[2018-11-23 18.45.19 243]ST#1 : Motion Y = 664.9958
+[2018-11-23 18.45.19 243]ST#1 : Motion T = 0.42409
+[2018-11-23 18.45.19 243]ST#1 : Alignment OK
+[2018-11-23 18.45.20 769]ST#1 : Requested Initialize
+[2018-11-23 18.46.57 023]ST#1 : Request Alignment
+[2018-11-23 18.46.57 023]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.46.57 081]ST#1 : Alignment Axis L(845.153, 744.6872) R(842.6148, 727.1355)
+[2018-11-23 18.46.57 212]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.46.57 215]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.46.57 215]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.46.57 215]ST#1 : Motion T = 0.42624
+[2018-11-23 18.46.57 358]ST#1 : Alignment Retry
+[2018-11-23 18.46.57 365]ST#1 : Send Alignment Movement LX(0.1568), RX(0.1482), Y(0.4219), T(0.00254), 
+[2018-11-23 18.46.57 870]ST#1 : Request Alignment
+[2018-11-23 18.46.57 870]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.46.57 931]ST#1 : Alignment Axis L(799.0656, 601.6749) R(798.7134, 597.7093)
+[2018-11-23 18.46.57 994]ST#1 : Motion LX = 137.8752
+[2018-11-23 18.46.58 000]ST#1 : Motion RX = 139.4376
+[2018-11-23 18.46.58 000]ST#1 : Motion Y = 664.9838
+[2018-11-23 18.46.58 000]ST#1 : Motion T = 0.42878
+[2018-11-23 18.46.58 040]ST#1 : Alignment Retry
+[2018-11-23 18.46.58 040]ST#1 : Send Alignment Movement LX(0.0006), RX(-0.0005), Y(-0.0009), T(0.00055), 
+[2018-11-23 18.46.58 566]ST#1 : Request Alignment
+[2018-11-23 18.46.58 566]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.46.58 627]ST#1 : Alignment Axis L(801.064, 598.6674) R(800.7481, 601.7218)
+[2018-11-23 18.46.58 669]ST#1 : Motion LX = 137.8758
+[2018-11-23 18.46.58 669]ST#1 : Motion RX = 139.4381
+[2018-11-23 18.46.58 669]ST#1 : Motion Y = 664.9829
+[2018-11-23 18.46.58 669]ST#1 : Motion T = 0.42933
+[2018-11-23 18.46.58 669]ST#1 : Alignment OK
+[2018-11-23 18.47.00 273]ST#1 : Requested Initialize
+[2018-11-23 18.48.34 192]ST#1 : Request Alignment
+[2018-11-23 18.48.34 198]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.48.34 322]ST#1 : Alignment Axis L(858.3146, 707.4252) R(854.6735, 743.6966)
+[2018-11-23 18.48.34 429]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.48.34 432]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.48.34 432]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.48.34 432]ST#1 : Motion T = 0.42624
+[2018-11-23 18.48.34 548]ST#1 : Alignment Retry
+[2018-11-23 18.48.34 556]ST#1 : Send Alignment Movement LX(0.1501), RX(0.1379), Y(0.3893), T(-0.00496), 
+[2018-11-23 18.48.35 086]ST#1 : Request Alignment
+[2018-11-23 18.48.35 095]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.48.35 234]ST#1 : Alignment Axis L(801.0512, 597.8865) R(800.4984, 601.509)
+[2018-11-23 18.48.35 288]ST#1 : Motion LX = 137.8685
+[2018-11-23 18.48.35 288]ST#1 : Motion RX = 139.4479
+[2018-11-23 18.48.35 288]ST#1 : Motion Y = 664.9512
+[2018-11-23 18.48.35 288]ST#1 : Motion T = 0.42128
+[2018-11-23 18.48.35 288]ST#1 : Alignment OK
+[2018-11-23 18.48.36 878]ST#1 : Requested Initialize
+[2018-11-23 18.50.11 111]ST#1 : Request Alignment
+[2018-11-23 18.50.11 111]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.50.11 168]ST#1 : Alignment Axis L(849.8303, 726.4444) R(847.1614, 742.4521)
+[2018-11-23 18.50.11 283]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.50.11 287]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.50.11 287]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.50.11 287]ST#1 : Motion T = 0.42624
+[2018-11-23 18.50.11 404]ST#1 : Alignment Retry
+[2018-11-23 18.50.11 404]ST#1 : Send Alignment Movement LX(0.1417), RX(0.1326), Y(0.417), T(-0.00213), 
+[2018-11-23 18.50.11 843]ST#1 : Request Alignment
+[2018-11-23 18.50.11 844]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.50.11 902]ST#1 : Alignment Axis L(801.1541, 598.3113) R(800.4176, 601.2971)
+[2018-11-23 18.50.11 937]ST#1 : Motion LX = 137.8601
+[2018-11-23 18.50.11 937]ST#1 : Motion RX = 139.4532
+[2018-11-23 18.50.11 937]ST#1 : Motion Y = 664.9789
+[2018-11-23 18.50.11 937]ST#1 : Motion T = 0.42411
+[2018-11-23 18.50.11 937]ST#1 : Alignment OK
+[2018-11-23 18.50.13 485]ST#1 : Requested Initialize
+[2018-11-23 18.51.51 500]ST#1 : Request Alignment
+[2018-11-23 18.51.51 503]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.51.51 566]ST#1 : Alignment Axis L(840.5273, 755.2824) R(837.8386, 725.2906)
+[2018-11-23 18.51.51 616]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.51.51 623]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.51.51 623]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.51.51 623]ST#1 : Motion T = 0.42624
+[2018-11-23 18.51.51 670]ST#1 : Alignment Retry
+[2018-11-23 18.51.51 670]ST#1 : Send Alignment Movement LX(0.1534), RX(0.1444), Y(0.4355), T(0.00427), 
+[2018-11-23 18.51.52 152]ST#1 : Request Alignment
+[2018-11-23 18.51.52 152]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.51.52 275]ST#1 : Alignment Axis L(800.5505, 599.2175) R(799.8822, 600.1209)
+[2018-11-23 18.51.52 325]ST#1 : Motion LX = 137.8718
+[2018-11-23 18.51.52 325]ST#1 : Motion RX = 139.4414
+[2018-11-23 18.51.52 325]ST#1 : Motion Y = 664.9974
+[2018-11-23 18.51.52 325]ST#1 : Motion T = 0.43051
+[2018-11-23 18.51.52 333]ST#1 : Alignment OK
+[2018-11-23 18.51.53 877]ST#1 : Requested Initialize
+[2018-11-23 18.53.26 034]ST#1 : Request Alignment
+[2018-11-23 18.53.26 034]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.53.26 089]ST#1 : Alignment Axis L(832.5616, 747.2496) R(829.7053, 712.8192)
+[2018-11-23 18.53.26 123]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.53.26 133]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.53.26 133]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.53.26 133]ST#1 : Motion T = 0.42624
+[2018-11-23 18.53.26 162]ST#1 : Alignment Retry
+[2018-11-23 18.53.26 162]ST#1 : Send Alignment Movement LX(0.1325), RX(0.1231), Y(0.4038), T(0.00488), 
+[2018-11-23 18.53.26 674]ST#1 : Request Alignment
+[2018-11-23 18.53.26 674]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.53.26 781]ST#1 : Alignment Axis L(799.5576, 600.5045) R(798.8613, 598.9289)
+[2018-11-23 18.53.26 839]ST#1 : Motion LX = 137.8509
+[2018-11-23 18.53.26 846]ST#1 : Motion RX = 139.4627
+[2018-11-23 18.53.26 846]ST#1 : Motion Y = 664.9657
+[2018-11-23 18.53.26 846]ST#1 : Motion T = 0.43112
+[2018-11-23 18.53.26 846]ST#1 : Alignment OK
+[2018-11-23 18.53.28 389]ST#1 : Requested Initialize
+[2018-11-23 18.54.57 045]ST#1 : Request Alignment
+[2018-11-23 18.54.57 048]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.54.57 155]ST#1 : Alignment Axis L(845.4413, 741.5403) R(843.3116, 736.682)
+[2018-11-23 18.54.57 192]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.54.57 192]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.54.57 192]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.54.57 192]ST#1 : Motion T = 0.42624
+[2018-11-23 18.54.57 221]ST#1 : Alignment Retry
+[2018-11-23 18.54.57 221]ST#1 : Send Alignment Movement LX(0.1465), RX(0.1391), Y(0.4317), T(0.00078), 
+[2018-11-23 18.54.57 645]ST#1 : Request Alignment
+[2018-11-23 18.54.57 645]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.54.57 709]ST#1 : Alignment Axis L(800.3125, 598.9582) R(800.0468, 600.4504)
+[2018-11-23 18.54.57 849]ST#1 : Motion LX = 137.8649
+[2018-11-23 18.54.57 849]ST#1 : Motion RX = 139.4467
+[2018-11-23 18.54.57 849]ST#1 : Motion Y = 664.9936
+[2018-11-23 18.54.57 849]ST#1 : Motion T = 0.42702
+[2018-11-23 18.54.57 849]ST#1 : Alignment OK
+[2018-11-23 18.54.59 398]ST#1 : Requested Initialize
+[2018-11-23 18.56.43 623]ST#1 : Request Alignment
+[2018-11-23 18.56.43 626]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.56.43 692]ST#1 : Alignment Axis L(848.8286, 728.5231) R(846.2008, 758.4676)
+[2018-11-23 18.56.43 736]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.56.43 736]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.56.43 736]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.56.43 736]ST#1 : Motion T = 0.42624
+[2018-11-23 18.56.43 799]ST#1 : Alignment Retry
+[2018-11-23 18.56.43 799]ST#1 : Send Alignment Movement LX(0.1263), RX(0.1174), Y(0.445), T(-0.00407), 
+[2018-11-23 18.56.44 706]ST#1 : Request Alignment
+[2018-11-23 18.56.44 709]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.56.44 841]ST#1 : Alignment Axis L(799.7951, 600.273) R(799.4804, 599.5364)
+[2018-11-23 18.56.44 883]ST#1 : Motion LX = 137.8447
+[2018-11-23 18.56.44 883]ST#1 : Motion RX = 139.4684
+[2018-11-23 18.56.44 883]ST#1 : Motion Y = 665.0069
+[2018-11-23 18.56.44 883]ST#1 : Motion T = 0.42217
+[2018-11-23 18.56.44 883]ST#1 : Alignment OK
+[2018-11-23 18.56.46 393]ST#1 : Requested Initialize
+[2018-11-23 18.58.17 834]ST#1 : Request Alignment
+[2018-11-23 18.58.17 834]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.58.17 971]ST#1 : Alignment Axis L(848.5473, 724.574) R(846.4598, 748.9191)
+[2018-11-23 18.58.18 005]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.58.18 005]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.58.18 005]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.58.18 005]ST#1 : Motion T = 0.42624
+[2018-11-23 18.58.18 143]ST#1 : Alignment Retry
+[2018-11-23 18.58.18 143]ST#1 : Send Alignment Movement LX(0.1303), RX(0.1231), Y(0.4241), T(-0.00329), 
+[2018-11-23 18.58.18 877]ST#1 : Request Alignment
+[2018-11-23 18.58.18 877]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.58.18 953]ST#1 : Alignment Axis L(800.1375, 599.355) R(799.6046, 599.6826)
+[2018-11-23 18.58.19 069]ST#1 : Motion LX = 137.8487
+[2018-11-23 18.58.19 075]ST#1 : Motion RX = 139.4627
+[2018-11-23 18.58.19 075]ST#1 : Motion Y = 664.986
+[2018-11-23 18.58.19 075]ST#1 : Motion T = 0.42295
+[2018-11-23 18.58.19 075]ST#1 : Alignment OK
+[2018-11-23 18.58.20 593]ST#1 : Requested Initialize
+[2018-11-23 18.59.55 261]ST#1 : Request Alignment
+[2018-11-23 18.59.55 265]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.59.55 324]ST#1 : Alignment Axis L(855.1169, 716.7642) R(851.7076, 731.3649)
+[2018-11-23 18.59.55 365]ST#1 : Motion LX = 137.7184
+[2018-11-23 18.59.55 365]ST#1 : Motion RX = 139.5858
+[2018-11-23 18.59.55 365]ST#1 : Motion Y = 664.5619
+[2018-11-23 18.59.55 365]ST#1 : Motion T = 0.42624
+[2018-11-23 18.59.55 405]ST#1 : Alignment Retry
+[2018-11-23 18.59.55 405]ST#1 : Send Alignment Movement LX(0.1593), RX(0.1479), Y(0.3848), T(-0.00194), 
+[2018-11-23 18.59.55 955]ST#1 : Request Alignment
+[2018-11-23 18.59.55 959]ST#1 : Send Busy(Alignment)
+[2018-11-23 18.59.56 020]ST#1 : Alignment Axis L(801.1523, 597.9509) R(800.6901, 601.5521)
+[2018-11-23 18.59.56 060]ST#1 : Motion LX = 137.8777
+[2018-11-23 18.59.56 060]ST#1 : Motion RX = 139.4379
+[2018-11-23 18.59.56 060]ST#1 : Motion Y = 664.9467
+[2018-11-23 18.59.56 060]ST#1 : Motion T = 0.4243
+[2018-11-23 18.59.56 060]ST#1 : Alignment OK
+[2018-11-23 18.59.57 608]ST#1 : Requested Initialize
+[2018-11-23 19.01.27 057]ST#1 : Request Alignment
+[2018-11-23 19.01.27 057]ST#1 : Send Busy(Alignment)
+[2018-11-23 19.01.27 113]ST#1 : Alignment Axis L(866.9256, 719.7561) R(864.4988, 759.2753)
+[2018-11-23 19.01.27 235]ST#1 : Motion LX = 137.7184
+[2018-11-23 19.01.27 242]ST#1 : Motion RX = 139.5858
+[2018-11-23 19.01.27 242]ST#1 : Motion Y = 664.5619
+[2018-11-23 19.01.27 242]ST#1 : Motion T = 0.42624
+[2018-11-23 19.01.27 358]ST#1 : Alignment Retry
+[2018-11-23 19.01.27 358]ST#1 : Send Alignment Movement LX(0.1741), RX(0.1655), Y(0.4325), T(-0.0054), 
+[2018-11-23 19.01.27 768]ST#1 : Request Alignment
+[2018-11-23 19.01.27 768]ST#1 : Send Busy(Alignment)
+[2018-11-23 19.01.27 828]ST#1 : Alignment Axis L(801.2694, 597.4536) R(800.9148, 601.7171)
+[2018-11-23 19.01.27 938]ST#1 : Motion LX = 137.8925
+[2018-11-23 19.01.27 938]ST#1 : Motion RX = 139.4203
+[2018-11-23 19.01.27 938]ST#1 : Motion Y = 664.9944
+[2018-11-23 19.01.27 938]ST#1 : Motion T = 0.42084
+[2018-11-23 19.01.27 998]ST#1 : Alignment Retry
+[2018-11-23 19.01.28 001]ST#1 : Send Alignment Movement LX(0.0002), RX(-0.0009), Y(-0.0013), T(-0.00059), 
+[2018-11-23 19.01.28 541]ST#1 : Request Alignment
+[2018-11-23 19.01.28 541]ST#1 : Send Busy(Alignment)
+[2018-11-23 19.01.28 601]ST#1 : Alignment Axis L(799.6142, 600.6514) R(799.7975, 599.616)
+[2018-11-23 19.01.28 748]ST#1 : Motion LX = 137.8927
+[2018-11-23 19.01.28 751]ST#1 : Motion RX = 139.4212
+[2018-11-23 19.01.28 751]ST#1 : Motion Y = 664.9931
+[2018-11-23 19.01.28 751]ST#1 : Motion T = 0.42025
+[2018-11-23 19.01.28 751]ST#1 : Alignment OK
+[2018-11-23 19.01.30 299]ST#1 : Requested Initialize
+[2018-11-23 19.08.26 924]ST#1 : Requested Initialize
+[2018-11-23 19.08.40 618]ST#1 : Requested Initialize
+[2018-11-23 19.08.54 312]ST#1 : Requested Initialize
+[2018-11-23 19.09.11 521]ST#1 : Requested Initialize
+[2018-11-23 19.09.31 008]ST#1 : Requested Initialize
+[2018-11-23 20.52.06 401]ST#1 : Requested Initialize
+[2018-11-23 20.55.23 108]ST#1 : Requested Initialize
+[2018-11-23 20.55.37 714]ST#1 : Requested Initialize
+[2018-11-23 20.55.52 812]ST#1 : Requested Initialize
+[2018-11-23 21.58.58 426]ST#1 : Requested Initialize
+[2018-11-23 22.02.27 637]ST#1 : Requested Initialize
+[2018-11-23 22.02.40 332]ST#1 : Requested Initialize
+[2018-11-23 22.02.52 946]ST#1 : Requested Initialize
+[2018-11-23 22.03.05 736]ST#1 : Requested Initialize
+[2018-11-23 22.04.29 231]ST#1 : Requested Initialize
+[2018-11-23 22.04.49 537]ST#1 : Requested Initialize
+[2018-11-23 22.05.09 146]ST#1 : Requested Initialize
+[2018-11-23 22.05.29 242]ST#1 : Requested Initialize
+[2018-11-23 22.05.49 138]ST#1 : Requested Initialize
+[2018-11-23 22.14.02 649]ST#1 : Requested Initialize
+[2018-11-23 22.14.31 853]ST#1 : Requested Initialize
+[2018-11-23 22.14.46 953]ST#1 : Requested Initialize
+[2018-11-23 22.26.23 278]ST#1 : Requested Initialize
+[2018-11-23 22.26.48 377]ST#1 : Requested Initialize
+[2018-11-23 22.27.07 781]ST#1 : Requested Initialize
+[2018-11-23 22.27.27 175]ST#1 : Requested Initialize
+[2018-11-23 22.27.46 773]ST#1 : Requested Initialize
+[2018-11-23 22.28.06 378]ST#1 : Requested Initialize
+[2018-11-23 22.28.26 179]ST#1 : Requested Initialize
+[2018-11-23 22.28.45 774]ST#1 : Requested Initialize
+[2018-11-23 22.37.07 097]ST#1 : Requested Initialize
+[2018-11-23 22.37.33 900]ST#1 : Requested Initialize
+[2018-11-23 22.39.24 206]ST#1 : Requested Initialize
+[2018-11-23 22.40.31 105]ST#1 : Requested Initialize
+[2018-11-23 22.50.10 827]ST#1 : Requested Initialize
+[2018-11-23 22.50.33 115]ST#1 : Requested Initialize
+[2018-11-23 22.57.37 727]ST#1 : Requested Initialize
+[2018-11-23 22.57.50 239]ST#1 : Requested Initialize
+[2018-11-23 22.59.35 539]ST#1 : Requested Initialize
